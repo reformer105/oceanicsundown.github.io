@@ -1,26 +1,13 @@
 html,
 body,
 #defaultCanvas0 {
-  display: block;
-  margin: 0;
-  padding: 0px;
-  overflow: hidden;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  overflow: hidden;
-  background-color: rgb(255, 255, 255);
+    display: block;
+    margin: 0;
+    padding: 0px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
 }
-/* For Debugigng  */
-#responsive-canvas { 
-  display: none;
-  margin: 0 auto;
-  overflow: hidden;
-  align-items: center;
-  justify-content: center;
-  background-color: #111;
-}
-/* #defaultCanvas0  {
-  position: relative;
-  text-align: center;
-} */
